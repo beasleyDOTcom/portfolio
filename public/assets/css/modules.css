@@ -21,6 +21,12 @@ section, article {
     display: inline-block;
     border: 0;
 }
+    #headerImg{
+        /* background-image: url("../../images/sandy.JPG");
+        width: 100%;
+        height: auto; */
+        text-shadow: 2px 2px 8px black;
+    }
 
     .image img {
         display: block;
