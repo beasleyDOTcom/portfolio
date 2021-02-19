@@ -305,7 +305,7 @@ button,
     -webkit-justify-content: space-between;
     -ms-justify-content: space-between;
     justify-content: space-between;
-    background-image: linear-gradient(to bottom right, #b594a0, #92abb3);
+    background-image: linear-gradient(to bottom right, #5b9db1, #92abb3);
     box-shadow: inset -0.25em 0 0.25em 0 rgba(0, 0, 0, 0.1);
     color: #fff;
     height: 100%;
@@ -396,7 +396,7 @@ button,
         #nav ul li a {
             display: block;
             padding: 0.5em 1.5em 0.5em 1.5em;
-            color: rgba(255, 255, 255, 0.5);
+            color: rgb(255, 255, 255);
             text-decoration: none;
             outline: 0;
             border: 0;
@@ -699,7 +699,7 @@ button,
             width: 275px;
             z-index: 10002;
             width: 275px;
-            background: #222729 url("images/overlay.png");
+            background-image: linear-gradient(to bottom right, #5b9db1, #92abb3);
             box-shadow: inset -0.25em 0 0.25em 0 rgba(0, 0, 0, 0.125);
         }
 
